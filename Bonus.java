@@ -1,4 +1,4 @@
-public class miles {
+public class Bonus {
     public static void main(String[] args) {
         int start = 100; // сколько на счету
         long charge = 1100; // сколько пополняет
